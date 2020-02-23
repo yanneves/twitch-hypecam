@@ -1,0 +1,17 @@
+{
+  "name": "twitch-hypecam",
+  "version": "0.1.0",
+  "main": "index.html",
+  "repository": "git@github.com:yanneves/twitch-hypecam",
+  "author": "yanneves <hello@yanneves.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "parcel build index.html"
+  },
+  "devDependencies": {
+    "babel-types": "^6.26.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
