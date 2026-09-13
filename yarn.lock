@@ -2,7 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 8
+  version: 10
   cacheKey: 10c0
 
 "@babel/code-frame@npm:^7.0.0, @babel/code-frame@npm:^7.8.3":
@@ -4485,14 +4485,14 @@ __metadata:
   linkType: hard
 
 "js-yaml@npm:^3.10.0, js-yaml@npm:^3.13.1":
-  version: 3.15.1
-  resolution: "js-yaml@npm:3.15.1"
+  version: 3.15.2
+  resolution: "js-yaml@npm:3.15.2"
   dependencies:
     argparse: "npm:^1.0.7"
     esprima: "npm:^4.0.0"
   bin:
     js-yaml: bin/js-yaml.js
-  checksum: 8/536cfb984b61d1544dbdbe394254dd13481a94171cb3a61608572d9112a63cbace9dd900cb83a4e530ac36427fff77d9e1cb6734917c6fea951d00b4f7bbb163
+  checksum: 10c0/e341df211dece9d4b784849647ad7568b5b6a58a9ee58ead750482316d83276387343649fe4b71522705dc6c76acf97718588f23dc19443833ef3e75033af967
   languageName: node
   linkType: hard
 
@@ -6582,10 +6582,10 @@ __metadata:
 
 "resolve@patch:resolve@npm%3A^1.1.5#optional!builtin<compat/resolve>, resolve@patch:resolve@npm%3A^1.4.0#optional!builtin<compat/resolve>":
   version: 1.15.1
-  resolution: "resolve@patch:resolve@npm%3A1.15.1#optional!builtin<compat/resolve>::version=1.15.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.15.1#optional!builtin<compat/resolve>::version=1.15.1&hash=9bd1a5"
   dependencies:
     path-parse: "npm:^1.0.6"
-  checksum: 10c0/c1dcb462251068e586facf852cca0be4c94d7eb35bdfa577c77c7a89a87b6c977b967186c0f9aa57cb95da39b8bdc8a3b5d797b3e32a366651a36d622638ab85
+  checksum: 10c0/6f41cc53ee2f42a70b173372abfa19b759e29653ccd7c70468c1d03fa2a625a6be9c321de5baf6c3c853497bcb32453b007121948a06b5825ce77f10c7e862f9
   languageName: node
   linkType: hard
 
